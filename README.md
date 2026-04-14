@@ -12,9 +12,6 @@ The dataset provides a comprehensive historical overview of 50 major pandemic an
 
 ## RECOMMENDATION
 - **Strengthen Viral Surveillance**: Given that viruses are the most frequent drivers of contemporary epidemics, global health systems should prioritize early genomic sequencing and rapid vaccine platform development.
-
-Economic Buffering: Since the economic impact of pandemics has grown exponentially, nations should invest in "pandemic insurance" and robust social safety nets to mitigate the multi-billion dollar losses seen in recent decades.
-
-Targeted Vector Control: Many of the deadliest historical events (Plagues) were vector-borne (e.g., fleas/rats). Maintaining high standards of urban sanitation and pest control remains a fundamental pillar of pandemic prevention.
-
-Investment in "Low-Scale" Outbreaks: Data shows that even "Minimal" mortality events can have high economic costs. Early containment of regional epidemics (like Ebola or MERS) is significantly more cost-effective than managing a full-scale pandemic.
+- **Economic Buffering**: Since the economic impact of pandemics has grown exponentially, nations should invest in "pandemic insurance" and robust social safety nets to mitigate the multi-billion dollar losses seen in recent decades.
+- **Targeted Vector Control**: Many of the deadliest historical events (Plagues) were vector-borne (e.g., fleas/rats). Maintaining high standards of urban sanitation and pest control remains a fundamental pillar of pandemic prevention.
+- **Investment in "Low-Scale" Outbreaks**: Data shows that even "Minimal" mortality events can have high economic costs. Early containment of regional epidemics (like Ebola or MERS) is significantly more cost-effective than managing a full-scale pandemic.
