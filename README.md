@@ -1,1 +1,11 @@
-# GLOBAL-DISEASE-DATASET
+ # GLOBAL-DISEASE-DATASET
+
+ ## INTRODUCTION
+The dataset provides a comprehensive historical overview of 50 major pandemic and epidemic events spanning from the Ancient era (2nd Century) to the Contemporary era (21st Century). It includes key metrics such as pathogen types, estimated cases and deaths, case fatality rates (CFR), primary transmission methods, and the resulting economic impact in billions of USD. This data allows for a longitudinal study of how humanity has been affected by infectious diseases and how medical breakthroughs have evolved to contain them.
+
+## INSIGHT
+- **Pathogen Dominance**: Viruses and Bacteria are the most frequent causes of global health crises. While bacterial infections like the Black Death and Plague of Justinian caused the highest historical mortality, the modern era is dominated by viral outbreaks (e.g., Influenza, Ebola, COVID-19).
+- **Mortality Extremes**: The Black Death remains the most catastrophic event in recorded history with an estimated 75 million deaths, followed by the Spanish Flu and the Plague of Justinian. The data shows a "Catastrophic" mortality scale is typically associated with a Case Fatality Rate (CFR) above $30\%$.
+- **Economic Escalation**: There is a massive spike in economic impact in the Contemporary Era. Modern pandemics (like COVID-19, which is reflected in high-impact contemporary data) cause trillion-dollar disruptions due to the interconnected nature of global trade, compared to the localized economic shifts of ancient times.
+- **Containment Evolution**: Early historical events relied almost exclusively on Natural Decline or primitive isolation. In contrast, 21st-century events show a high frequency of Medical Breakthroughs (vaccines and antibiotics), yet the "Spread Score" remains high due to increased global mobility.
+- **Geographic Spread**: While many ancient plagues were "Continental," modern outbreaks quickly reach "Global" status, affecting all 6-7 inhabited continents within months.
