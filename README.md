@@ -4,13 +4,29 @@
 *GLOBAL HISTORICAL PANDEMIC EPIDERMIC DISEASES*
 
  ## INTRODUCTION
- ![](SQLINTERFACE.png)
+ ![](SQL_INTERFACE.png)
  
 The dataset provides a comprehensive historical overview of 50 major pandemic and epidemic events spanning from the Ancient era (2nd Century) to the Contemporary era (21st Century). It includes key metrics such as pathogen types, estimated cases and deaths, case fatality rates (CFR), primary transmission methods, and the resulting economic impact in billions of USD. This data allows for a longitudinal study of how humanity has been affected by infectious diseases and how medical breakthroughs have evolved to contain them.
 
 ## DATA OBTAINED FROM THE DATASET 'HISTORICAL PANDEMIC EPIDEMIC DISESASES' USING SQLITE TOOL FOR ANALYSIS
+ ![](OUTPUT_3.png) 
+ <ins>*THIS INTERFACE REPRESENT THE INTERFACE OF THE HISTORICAL PANDEMIC EPIDERMIC DISEASES*</ins>
 
  ![](OUTPUT-REGION.png)
+ <ins>*THE REGION WHERE THE OUTBREAK OF THIS DISEASES ORIGINATED FROM*</ins>
+
+![](OUTPUT_AFRICA.png) 
+<ins>*THE NAME OF THE DISEASE THAT ORIGINATED FROM AFRICA*</ins>
+
+![](OUTPUT_PRIMARY-TRANSMISSION.png) 
+<ins>*THE METHOD OF TRANSMISSION OF THESE DISEASES*</ins>
+
+![](OUTPUT-PATHOGEN.png)
+<ins>*THE PATHOGEN TYPE OF THE DISEASES*</ins>
+
+![](OUTPUT-.png) 
+<ins>*THE YEARS SOME OF THE DISEASES BROKE OUT*</ins>
+
 
 
 
