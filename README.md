@@ -1,10 +1,19 @@
  # GLOBAL-DISEASE-DATASET
-![](INTRODUCTION_IMAGE.png)
-*GLOBAL HISTORICAL -ANDEMIV EPIDERMIC DISEASE*
+![](INTRODUCTION_IMAGE.png) 
+
+*GLOBAL HISTORICAL PANDEMIC EPIDERMIC DISEASES*
 
  ## INTRODUCTION
- ![](INTRODUCTION_IMAGE.png)
+ ![](SQLINTERFACE.png)
+ 
 The dataset provides a comprehensive historical overview of 50 major pandemic and epidemic events spanning from the Ancient era (2nd Century) to the Contemporary era (21st Century). It includes key metrics such as pathogen types, estimated cases and deaths, case fatality rates (CFR), primary transmission methods, and the resulting economic impact in billions of USD. This data allows for a longitudinal study of how humanity has been affected by infectious diseases and how medical breakthroughs have evolved to contain them.
+
+## DATA OBTAINED FROM THE DATASET 'HISTORICAL PANDEMIC EPIDEMIC DISESASES' USING SQLITE TOOL FOR ANALYSIS
+
+ ![](OUTPUT-REGION.png)
+
+
+
 
 ## INSIGHT
 - **Pathogen Dominance**: Viruses and Bacteria are the most frequent causes of global health crises. While bacterial infections like the Black Death and Plague of Justinian caused the highest historical mortality, the modern era is dominated by viral outbreaks (e.g., Influenza, Ebola, COVID-19).
